@@ -6,7 +6,6 @@ STAT 545: http://stat545.com/topics.html
 
 Exploratory Tabs: http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html#.WgdUaGi0Pb0
 
-Learning: https://community.rstudio.com/t/learning-how-to-learn/1302
 
 ### Blog writing
 Write a blog: http://varianceexplained.org/r/start-blog/
@@ -47,6 +46,11 @@ Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.htm
 
 ### Teaching
 Tidyverse: http://varianceexplained.org/r/teach-tidyverse/
+
+Learning: https://community.rstudio.com/t/learning-how-to-learn/1302
+
+Meagan's R4DS teaching: https://medium.com/@kierisi/latest
+
 
 ### Miscellaneous
 Character Sets: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
