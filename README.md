@@ -32,9 +32,23 @@ The Shell: https://github.com/ucb-stat133/stat133-fall-2017/blob/master/slides/0
 ### Modelling and Machine Learning
 Carat: http://rsangole.netlify.com/post/pur-r-ify-your-carets/
 
+More on Carat: https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/
+
 Forecasting: https://noamross.github.io/data-driven-scroogery/
 
+Deep Learning: https://www.manning.com/books/deep-learning-with-r
+
+Data science from scratch (with Python): http://shop.oreilly.com/product/0636920033400.do
+
+Deck about ML: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g183f28bdc3_0_82
+
+Intro to XGBoost: https://www.r-bloggers.com/an-introduction-to-xgboost-r-package/
+
+
+
 MS machine learning material: http://blog.revolutionanalytics.com/2017/10/statistical-machine-learning-with-microsoft-ml.html
+
+
 
 ### Packages (to try)
 Tables: https://github.com/sfirke/janitor/blob/master/vignettes/tabyls.md
@@ -43,6 +57,8 @@ Tables: https://github.com/sfirke/janitor/blob/master/vignettes/tabyls.md
 Bayes (Silge): https://juliasilge.com/blog/bayesian-blues/
 
 Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
+
+Excellent stats tutorial: http://r-statistics.co/Outlier-Treatment-With-R.html
 
 ### Teaching
 Tidyverse: http://varianceexplained.org/r/teach-tidyverse/
@@ -54,6 +70,9 @@ Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
 ### Miscellaneous
 Character Sets: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+Faster code (for simulations): Faster code for simulation: https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/
+
 
 
 ### E's potential project
