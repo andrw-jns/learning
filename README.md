@@ -30,9 +30,23 @@ Git: http://happygitwithr.com/rstudio-git-github.html
 The Shell: https://github.com/ucb-stat133/stat133-fall-2017/blob/master/slides/07-shell-basics.pdf
 
 ### Modelling and Machine Learning
-Carat: http://rsangole.netlify.com/post/pur-r-ify-your-carets/
 
-More on Carat: https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/
+Caret [1] {excellent walkthrough} : https://www.zevross.com/blog/2017/09/19/predictive-modeling-and-machine-learning-in-r-with-the-caret-package/#realistic-model-estimates-through-built-in-resampling
+
+Caret [2] : http://www.rebeccabarter.com/blog/2017-11-17-caret_tutorial/
+
+Caret [3] : http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/
+
+Caret [5] : https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/
+
+Carat [GOAL]: http://rsangole.netlify.com/post/pur-r-ify-your-carets/
+
+Caret vignette: https://cran.r-project.org/web/packages/caret/vignettes/caret.pdf
+
+Centring and scaling : http://shahramabyari.com/2015/12/20/data-preparation-for-predictive-modeling-centering-scaling/
+
+CURATED LIST OF R RESOURCES + CARET : https://ujjwalkarn.me/2016/06/04/curated-list-of-r-tutorials-for-data-science/
+
 
 Forecasting: https://noamross.github.io/data-driven-scroogery/
 
@@ -44,7 +58,7 @@ Deck about ML: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvz
 
 Intro to XGBoost: https://www.r-bloggers.com/an-introduction-to-xgboost-r-package/
 
-
+Another Intro to XGBoost: https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
 
 MS machine learning material: http://blog.revolutionanalytics.com/2017/10/statistical-machine-learning-with-microsoft-ml.html
 
