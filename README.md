@@ -1,5 +1,5 @@
 # Learning
-A markdown to list learning resources.
+A markdown of learning resources.
 
 ## Reference
 STAT 545: http://stat545.com/topics.html
