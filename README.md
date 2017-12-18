@@ -1,5 +1,5 @@
 # Learning
-A markdown to list reference materials:
+A markdown to list learning resources.
 
 ## Reference
 STAT 545: http://stat545.com/topics.html
