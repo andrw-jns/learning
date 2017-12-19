@@ -45,8 +45,12 @@ Caret vignette: https://cran.r-project.org/web/packages/caret/vignettes/caret.pd
 
 Centring and scaling : http://shahramabyari.com/2015/12/20/data-preparation-for-predictive-modeling-centering-scaling/
 
+
+
 CURATED LIST OF R RESOURCES + CARET : https://ujjwalkarn.me/2016/06/04/curated-list-of-r-tutorials-for-data-science/
 
+
+LIME (making sense of ML outputs) : https://shirinsplayground.netlify.com/2017/12/lime_sketchnotes/
 
 Forecasting: https://noamross.github.io/data-driven-scroogery/
 
