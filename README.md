@@ -96,3 +96,4 @@ emojis on twitter: https://prismoji.com/2017/02/06/emoji-data-science-in-r-tutor
 
 song lyrics: http://colinfay.me/purrr-web-mining/?utm_content=bufferfad2e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+Mapping & ggplot2: http://socviz.co/draw-maps.html#draw-maps
