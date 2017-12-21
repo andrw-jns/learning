@@ -87,6 +87,9 @@ Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
 
 ### Miscellaneous
+
+File names: https://speakerdeck.com/jennybc/how-to-name-files
+
 Character Sets: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 Faster code (for simulations): Faster code for simulation: https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/
@@ -101,3 +104,5 @@ emojis on twitter: https://prismoji.com/2017/02/06/emoji-data-science-in-r-tutor
 song lyrics: http://colinfay.me/purrr-web-mining/?utm_content=bufferfad2e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 Mapping & ggplot2: http://socviz.co/draw-maps.html#draw-maps
+
+YouTube API: https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/
