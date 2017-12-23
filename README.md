@@ -6,6 +6,7 @@ STAT 545: http://stat545.com/topics.html
 
 Exploratory Tabs: http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html#.WgdUaGi0Pb0
 
+Glossary: https://ubc-mds.github.io/resources_pages/terminology/
 
 ### Blog writing
 Write a blog: http://varianceexplained.org/r/start-blog/
@@ -90,6 +91,8 @@ Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
 File names: https://speakerdeck.com/jennybc/how-to-name-files
 
+Project templates: https://community.rstudio.com/t/collaborating-on-data-science-projects/3595/6
+
 Character Sets: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 Faster code (for simulations): Faster code for simulation: https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/
@@ -106,3 +109,5 @@ song lyrics: http://colinfay.me/purrr-web-mining/?utm_content=bufferfad2e&utm_me
 Mapping & ggplot2: http://socviz.co/draw-maps.html#draw-maps
 
 YouTube API: https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/
+
+Mapping highlandds: https://johnmackintosh.com/2017-08-22-simply-mapping/
