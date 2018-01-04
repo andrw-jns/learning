@@ -1,7 +1,8 @@
-# Learning
+<h1 align="center">Learning</h1>
+
 A markdown of learning resources.
 
-## Reference
+### Reference
 STAT 545: http://stat545.com/topics.html
 
 Exploratory Tabs: http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html#.WgdUaGi0Pb0
