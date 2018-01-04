@@ -73,6 +73,8 @@ MS machine learning material: http://blog.revolutionanalytics.com/2017/10/statis
 ### Packages (to try)
 Tables: https://github.com/sfirke/janitor/blob/master/vignettes/tabyls.md
 
+Skimr (quick summary of dataset): https://github.com/ropenscilabs/skimr
+
 ### Stats
 Bayes (Silge): https://juliasilge.com/blog/bayesian-blues/
 
