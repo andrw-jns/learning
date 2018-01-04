@@ -1,6 +1,6 @@
 <h1 align="center">Learning</h1>
 
-<h2 align = "center"> A markdown of learning resources </h2>
+<h2 align = "center"> Markdown of Learning Resources </h2>
 
 ### Reference
 STAT 545: http://stat545.com/topics.html
