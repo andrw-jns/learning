@@ -7,6 +7,8 @@ STAT 545: http://stat545.com/topics.html
 
 Exploratory Tabs: http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html#.WgdUaGi0Pb0
 
+File Names: http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf
+
 Glossary: https://ubc-mds.github.io/resources_pages/terminology/
 
 ### Blog writing
