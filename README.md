@@ -24,6 +24,9 @@ UBC Masters: https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/
 basecs blog: https://medium.com/basecs
 
 ### Neat Stuff:
+
+review of 2017: https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/
+
 web forms: https://nxskok.github.io/blog/2017/11/20/chuff-chuff-using-rvest-with-web-forms/
 
 general tutorial: https://medium.com/@peterjgensler/functions-with-r-and-rvest-a-laymens-guide-acda42325a77
@@ -78,6 +81,8 @@ Tables: https://github.com/sfirke/janitor/blob/master/vignettes/tabyls.md
 Skimr (quick summary of dataset): https://github.com/ropenscilabs/skimr
 
 ### Stats
+Shiny apps to explain: https://github.com/huyingjie/Awesome-shiny-apps-for-statistics
+
 Bayes (Silge): https://juliasilge.com/blog/bayesian-blues/
 
 Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
@@ -94,14 +99,13 @@ Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
 ### Miscellaneous
 
-File names: https://speakerdeck.com/jennybc/how-to-name-files
-
 Project templates: https://community.rstudio.com/t/collaborating-on-data-science-projects/3595/6
 
 Character Sets: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 Faster code (for simulations): Faster code for simulation: https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/
 
+Scale colour manual values: http://www.json.blog/
 
 
 ### E's potential project
