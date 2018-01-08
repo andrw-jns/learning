@@ -80,14 +80,19 @@ Tables: https://github.com/sfirke/janitor/blob/master/vignettes/tabyls.md
 
 Skimr (quick summary of dataset): https://github.com/ropenscilabs/skimr
 
+Other packages for summarising data: https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/
+
 ### Stats
+
+Excellent R stats materials: https://m-clark.github.io/docs/GAM.html
+
+More excellent R stats tutorials: http://r-statistics.co/Outlier-Treatment-With-R.html
+
 Shiny apps to explain: https://github.com/huyingjie/Awesome-shiny-apps-for-statistics
 
 Bayes (Silge): https://juliasilge.com/blog/bayesian-blues/
 
 Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
-
-Excellent stats tutorial: http://r-statistics.co/Outlier-Treatment-With-R.html
 
 ### Teaching
 Tidyverse: http://varianceexplained.org/r/teach-tidyverse/
