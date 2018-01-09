@@ -94,6 +94,8 @@ Bayes (Silge): https://juliasilge.com/blog/bayesian-blues/
 
 Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
 
+Fitting distributions: https://magesblog.com/post/2011-12-01-fitting-distributions-with-r/
+
 ### Teaching
 Tidyverse: http://varianceexplained.org/r/teach-tidyverse/
 
