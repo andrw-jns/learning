@@ -6,6 +6,8 @@
 
 Ideas on how to learn: https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e
 
+How to read a paper: https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/
+
 STAT 545: http://stat545.com/topics.html
 
 Exploratory Tabs: http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html#.WgdUaGi0Pb0
@@ -119,6 +121,9 @@ Scale colour manual values: http://www.json.blog/
 
 Faster R: https://krlmlr.github.io/fstplyr/
 
+### Health Specific
+
+Mapping with PHE fingertips: https://emmavestesson.netlify.com/2018/01/maps/
 
 ### E's potential project
 Tweets: https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/
