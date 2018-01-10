@@ -3,6 +3,9 @@
 <h2 align = "center"> Markdown of Learning Resources </h2>
 
 ### Reference
+
+Ideas on how to learn: https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e
+
 STAT 545: http://stat545.com/topics.html
 
 Exploratory Tabs: http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html#.WgdUaGi0Pb0
@@ -113,6 +116,8 @@ Character Sets: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-e
 Faster code (for simulations): Faster code for simulation: https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/
 
 Scale colour manual values: http://www.json.blog/
+
+Faster R: https://krlmlr.github.io/fstplyr/
 
 
 ### E's potential project
