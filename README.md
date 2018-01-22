@@ -30,6 +30,8 @@ basecs blog: https://medium.com/basecs
 
 ### Neat Stuff:
 
+Fay purrr functions: http://colinfay.me/purrr-cookbook/optim.html
+
 review of 2017: https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/
 
 web forms: https://nxskok.github.io/blog/2017/11/20/chuff-chuff-using-rvest-with-web-forms/
