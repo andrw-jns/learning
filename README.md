@@ -41,6 +41,8 @@ general tutorial: https://medium.com/@peterjgensler/functions-with-r-and-rvest-a
 ### Git & The Shell
 Git: http://happygitwithr.com/rstudio-git-github.html
 
+Merge conflicts: http://www2.stat.duke.edu/courses/Fall17/sta112.01/slides/05-deck.html#5
+
 The Shell: https://github.com/ucb-stat133/stat133-fall-2017/blob/master/slides/07-shell-basics.pdf
 
 ### Modelling and Machine Learning
