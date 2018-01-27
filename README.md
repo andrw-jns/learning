@@ -16,6 +16,8 @@ File Names: http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slide
 
 Glossary: https://ubc-mds.github.io/resources_pages/terminology/
 
+Viz literacy: http://dataviz-literacy.wmflabs.org/#section-introduction
+
 ### Blog writing
 Write a blog: http://varianceexplained.org/r/start-blog/
 
@@ -44,6 +46,8 @@ Git: http://happygitwithr.com/rstudio-git-github.html
 Merge conflicts: http://www2.stat.duke.edu/courses/Fall17/sta112.01/slides/05-deck.html#5
 
 The Shell: https://github.com/ucb-stat133/stat133-fall-2017/blob/master/slides/07-shell-basics.pdf
+
+DS at the command line: https://www.datascienceatthecommandline.com/chapter-6-managing-your-data-workflow.html
 
 ### Modelling and Machine Learning
 
@@ -112,6 +116,11 @@ Learning: https://community.rstudio.com/t/learning-how-to-learn/1302
 
 Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
+### Mapping
+
+2017 resources: https://bhaskarvk.github.io/user2017.geodataviz/
+
+List of packages: https://twitter.com/astrobiased/status/957112172957515776
 
 ### Miscellaneous
 
@@ -124,6 +133,8 @@ Faster code (for simulations): Faster code for simulation: https://robinsones.gi
 Scale colour manual values: http://www.json.blog/
 
 Faster R: https://krlmlr.github.io/fstplyr/
+
+Package management (reproducibility): https://rviews.rstudio.com/2018/01/18/package-management-for-reproducible-r-code/
 
 ### Health Specific
 
