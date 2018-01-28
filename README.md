@@ -109,6 +109,12 @@ Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.htm
 
 Fitting distributions: https://magesblog.com/post/2011-12-01-fitting-distributions-with-r/
 
+### Tidy Eval 
+
+MA resource roundup: https://maraaverick.rbind.io/2017/08/tidyeval-resource-roundup/
+
+Most common actions: https://edwinth.github.io/blog/dplyr-recipes/
+
 ### Teaching
 Tidyverse: http://varianceexplained.org/r/teach-tidyverse/
 
