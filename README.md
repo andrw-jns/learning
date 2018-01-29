@@ -122,6 +122,7 @@ Learning: https://community.rstudio.com/t/learning-how-to-learn/1302
 
 Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
+Rudeboy: Good graphic for ggplot: http://rudeboybert.rbind.io/talk/2018-01-27_Data_Day_Texas.pdf
 ### Mapping
 
 2017 resources: https://bhaskarvk.github.io/user2017.geodataviz/
