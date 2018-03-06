@@ -107,6 +107,8 @@ Bayes (Silge): https://juliasilge.com/blog/bayesian-blues/
 
 Mixed linear models: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
 
+Mixed models (more): http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/
+
 Fitting distributions: https://magesblog.com/post/2011-12-01-fitting-distributions-with-r/
 
 ### Tidy Eval 
@@ -128,6 +130,8 @@ Rudeboy: Good graphic for ggplot: http://rudeboybert.rbind.io/talk/2018-01-27_Da
 2017 resources: https://bhaskarvk.github.io/user2017.geodataviz/
 
 List of packages: https://twitter.com/astrobiased/status/957112172957515776
+
+Hex maps: https://github.com/jbaileyh/geogrid
 
 ### Miscellaneous
 
@@ -159,3 +163,10 @@ Mapping & ggplot2: http://socviz.co/draw-maps.html#draw-maps
 YouTube API: https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/
 
 Mapping highlandds: https://johnmackintosh.com/2017-08-22-simply-mapping/
+
+Network graphs: https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/
+
+### Temp Backgrounds to ggplot
+
+https://scriptsandstatistics.wordpress.com/2016/09/29/how-to-add-a-background-image-to-ggplot2/
+http://thinktostart.com/add-a-background-png-to-ggplot2/
