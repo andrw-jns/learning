@@ -166,6 +166,8 @@ Mapping highlandds: https://johnmackintosh.com/2017-08-22-simply-mapping/
 
 Network graphs: https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/
 
+Mapping dot density plots: https://tarakc02.github.io/dot-density/
+
 ### Temp Backgrounds to ggplot
 
 https://scriptsandstatistics.wordpress.com/2016/09/29/how-to-add-a-background-image-to-ggplot2/
