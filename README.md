@@ -16,19 +16,32 @@ File Names: http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slide
 
 Glossary: https://ubc-mds.github.io/resources_pages/terminology/
 
-Viz literacy: http://dataviz-literacy.wmflabs.org/#section-introduction
+Readings in applied data science: https://github.com/hadley/stats337#readings
 
 ### Blog writing
 Write a blog: http://varianceexplained.org/r/start-blog/
 
 Rmd to Medium: https://yutani.rbind.io/post/2017-10-26-post-to-medium/
 
+### Bibliography
+
+plain text 1: http://wcm1.web.rice.edu/plain-text-citations.html
+
+plain text 2: https://kieranhealy.org/blog/archives/2014/01/23/plain-text/
+
+plain text 3: http://blog.wuzzeb.org/posts/2012-06-14-reference-management.html
+
+plain text 4: https://github.com/lmullen/historybib
 
 ### Communication
 UBC Masters: https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/
 
 ### Computer Science
 basecs blog: https://medium.com/basecs
+
+### DevOps
+
+https://psyarxiv.com/gxcy5
 
 ### Neat Stuff:
 
@@ -95,6 +108,11 @@ Skimr (quick summary of dataset): https://github.com/ropenscilabs/skimr
 
 Other packages for summarising data: https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/
 
+### R to DB
+
+https://www.rstudio.com/resources/videos/best-practices-for-working-with-databases-webinar/
+
+
 ### Stats
 
 Excellent R stats materials: https://m-clark.github.io/docs/GAM.html
@@ -125,6 +143,8 @@ Learning: https://community.rstudio.com/t/learning-how-to-learn/1302
 Meagan's R4DS teaching: https://medium.com/@kierisi/latest
 
 Rudeboy: Good graphic for ggplot: http://rudeboybert.rbind.io/talk/2018-01-27_Data_Day_Texas.pdf
+
+drob video: https://www.rstudio.com/resources/videos/teach-the-tidyverse-to-beginners/
 ### Mapping
 
 2017 resources: https://bhaskarvk.github.io/user2017.geodataviz/
