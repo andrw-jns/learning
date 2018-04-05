@@ -64,6 +64,8 @@ DS at the command line: https://www.datascienceatthecommandline.com/chapter-6-ma
 
 ### Modelling and Machine Learning
 
+Caret on Kaggle : https://rsangole.netlify.com/project/yet-another-titanic-solve/
+
 Caret [1] {excellent walkthrough} : https://www.zevross.com/blog/2017/09/19/predictive-modeling-and-machine-learning-in-r-with-the-caret-package/#realistic-model-estimates-through-built-in-resampling
 
 Caret [2] : http://www.rebeccabarter.com/blog/2017-11-17-caret_tutorial/
