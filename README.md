@@ -8,6 +8,8 @@ Jim Hester talk: https://www.rstudio.com/resources/videos/you-can-make-a-package
 
 API ONS: https://ropengov.github.io/  ; https://digitalblog.ons.gov.uk/2017/06/15/api/
 
+Row oriented workflows: https://github.com/jennybc/row-oriented-workflows#readme
+
 ### Reference
 
 RStudio webinars (scraping): https://www.rstudio.com/resources/webinars/
