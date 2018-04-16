@@ -2,6 +2,10 @@
 
 <h2 align = "center"> Markdown of Learning Resources </h2>
 
+### Make package:
+
+Jim Hester talk: https://www.rstudio.com/resources/videos/you-can-make-a-package-in-20-minutes/
+
 ### Reference
 
 Ideas on how to learn: https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e
@@ -173,6 +177,10 @@ Package management (reproducibility): https://rviews.rstudio.com/2018/01/18/pack
 
 Mapping with PHE fingertips: https://emmavestesson.netlify.com/2018/01/maps/
 
+### R Community
+
+Conference: http://www.monicagerber.com/2018/04/reflections-on-rstudio-conf-2018/
+
 ### E's potential project
 Tweets: https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/
 
@@ -194,3 +202,7 @@ Mapping dot density plots: https://tarakc02.github.io/dot-density/
 
 https://scriptsandstatistics.wordpress.com/2016/09/29/how-to-add-a-background-image-to-ggplot2/
 http://thinktostart.com/add-a-background-png-to-ggplot2/
+
+### Misc
+
+Directed Acyclic Graphs: https://malco.io/2018/03/28/ggdag-0-1-0/
