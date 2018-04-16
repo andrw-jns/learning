@@ -6,7 +6,11 @@
 
 Jim Hester talk: https://www.rstudio.com/resources/videos/you-can-make-a-package-in-20-minutes/
 
+API ONS: https://ropengov.github.io/  ; https://digitalblog.ons.gov.uk/2017/06/15/api/
+
 ### Reference
+
+RStudio webinars (scraping): https://www.rstudio.com/resources/webinars/
 
 Ideas on how to learn: https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e
 
