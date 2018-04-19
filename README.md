@@ -212,3 +212,7 @@ http://thinktostart.com/add-a-background-png-to-ggplot2/
 ### Misc
 
 Directed Acyclic Graphs: https://malco.io/2018/03/28/ggdag-0-1-0/
+
+Intro to Statistical Learn.
+
+Applied Predictive Models. (And Data Camp course).
