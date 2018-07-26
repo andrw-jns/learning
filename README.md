@@ -2,13 +2,17 @@
 
 <h2 align = "center"> Markdown of Learning Resources </h2>
 
-### Make package:
+### Current
 
-Jim Hester talk: https://www.rstudio.com/resources/videos/you-can-make-a-package-in-20-minutes/
+R Markdown: https://bookdown.org/yihui/rmarkdown/
 
-API ONS: https://ropengov.github.io/  ; https://digitalblog.ons.gov.uk/2017/06/15/api/
+Summary tables 1: https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/
 
-Row oriented workflows: https://github.com/jennybc/row-oriented-workflows#readme
+Summary tables 2: https://dabblingwithdata.wordpress.com/2018/02/26/r-packages-for-summarising-data-part-2/
+
+summarytools package: https://github.com/dcomtois/summarytools
+
+Machine learning blog : https://machinelearningmastery.com/
 
 ### Reference
 
@@ -186,6 +190,15 @@ Mapping with PHE fingertips: https://emmavestesson.netlify.com/2018/01/maps/
 ### R Community
 
 Conference: http://www.monicagerber.com/2018/04/reflections-on-rstudio-conf-2018/
+
+### Make package:
+
+Jim Hester talk: https://www.rstudio.com/resources/videos/you-can-make-a-package-in-20-minutes/
+
+API ONS: https://ropengov.github.io/  ; https://digitalblog.ons.gov.uk/2017/06/15/api/
+
+Row oriented workflows: https://github.com/jennybc/row-oriented-workflows#readme
+
 
 ### E's potential project
 Tweets: https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/
