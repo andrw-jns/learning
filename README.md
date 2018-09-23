@@ -14,6 +14,8 @@ summarytools package: https://github.com/dcomtois/summarytools
 
 Machine learning blog : https://machinelearningmastery.com/
 
+Wilke viz : https://serialmentor.com/dataviz/
+
 ### Reference
 
 RStudio webinars (scraping): https://www.rstudio.com/resources/webinars/
