@@ -16,6 +16,8 @@ Machine learning blog : https://machinelearningmastery.com/
 
 Wilke viz : https://serialmentor.com/dataviz/
 
+GAMs (Excellent resource) : https://multithreaded.stitchfix.com/blog/2015/07/30/gam/
+
 ### Reference
 
 RStudio webinars (scraping): https://www.rstudio.com/resources/webinars/
